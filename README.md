@@ -1,6 +1,7 @@
 # Marconi Wireless Telegraph
 
 A vintage-styled wireless telegraph application with real-time messaging powered by Supabase.
+- Just a quick, fun, vibe-coded game for my son to play with and customize.
 
 ## Features
 
